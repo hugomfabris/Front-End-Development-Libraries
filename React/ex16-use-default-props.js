@@ -8,4 +8,3 @@ const ShoppingCart = (props) => {
 ShoppingCart.defaultProps = {
   items: 0
 }
-// Change code below this line

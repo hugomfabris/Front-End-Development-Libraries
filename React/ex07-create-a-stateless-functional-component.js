@@ -3,12 +3,10 @@ For now, think of a stateless component as one that can receive data and render 
 */
 
 const MyComponent = function() {
-  // Change code below this line
+
   return ( 
   <div className="component">
     This is a div
   </div>
   );
-
-  // Change code above this line
 }
